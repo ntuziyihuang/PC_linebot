@@ -1,0 +1,4 @@
+line-bot-sdk==3.7
+flask==3.0.0
+openai==1.58.1
+scikit-learn==1.6.0
